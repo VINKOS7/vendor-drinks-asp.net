@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vlLO6fQEh9TkV3dYHaA2gEO+S1NuXDIkvr2KT1kQj4gpgacRrbyFyvkw1SDaZH3vNmW97pxJ9iZhDFzO3tOwew==",
+  "success": true,
+  "projectFilePath": "E:\\TestTaskKSK\\back\\KSK.Vendor.Drinks.Domain\\KSK.Vendor.Drinks.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VINKOS\\.nuget\\packages\\dotseed.domain\\0.1.1\\dotseed.domain.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

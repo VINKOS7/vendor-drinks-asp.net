@@ -1,0 +1,12 @@
+E:\TestTaskKSK\back\KSK.Vendor.Drinks.Domain\bin\Debug\net6.0\KSK.Vendor.Drinks.Domain.deps.json
+E:\TestTaskKSK\back\KSK.Vendor.Drinks.Domain\bin\Debug\net6.0\KSK.Vendor.Drinks.Domain.dll
+E:\TestTaskKSK\back\KSK.Vendor.Drinks.Domain\bin\Debug\net6.0\KSK.Vendor.Drinks.Domain.pdb
+E:\TestTaskKSK\back\KSK.Vendor.Drinks.Domain\obj\Debug\net6.0\KSK.Vendor.Drinks.Domain.csproj.AssemblyReference.cache
+E:\TestTaskKSK\back\KSK.Vendor.Drinks.Domain\obj\Debug\net6.0\KSK.Vendor.Drinks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestTaskKSK\back\KSK.Vendor.Drinks.Domain\obj\Debug\net6.0\KSK.Vendor.Drinks.Domain.AssemblyInfoInputs.cache
+E:\TestTaskKSK\back\KSK.Vendor.Drinks.Domain\obj\Debug\net6.0\KSK.Vendor.Drinks.Domain.AssemblyInfo.cs
+E:\TestTaskKSK\back\KSK.Vendor.Drinks.Domain\obj\Debug\net6.0\KSK.Vendor.Drinks.Domain.csproj.CoreCompileInputs.cache
+E:\TestTaskKSK\back\KSK.Vendor.Drinks.Domain\obj\Debug\net6.0\KSK.Vendor.Drinks.Domain.dll
+E:\TestTaskKSK\back\KSK.Vendor.Drinks.Domain\obj\Debug\net6.0\refint\KSK.Vendor.Drinks.Domain.dll
+E:\TestTaskKSK\back\KSK.Vendor.Drinks.Domain\obj\Debug\net6.0\KSK.Vendor.Drinks.Domain.pdb
+E:\TestTaskKSK\back\KSK.Vendor.Drinks.Domain\obj\Debug\net6.0\ref\KSK.Vendor.Drinks.Domain.dll
